@@ -9,7 +9,7 @@
   | Assembler       | basic (ARM)                  | Embedded            |
   | VHDL            | basic computer engineering   | Embedded            |
   | PLC (SPS)       | SIEMENS certified technician | Embedded            |
-  | :octocat: git   | rebase --interactive         | :infinity:          |
+  | :octocat: git   | rebase --interactive HEAD~42 | :infinity:          |
   | bash (GNU)      | some automation              | :infinity:          |
   | XML             | RPC-API                      | :infinity:          |
   | JSON            | RPC-API                      | :infinity:          |
