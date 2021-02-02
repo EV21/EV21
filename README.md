@@ -2,20 +2,25 @@
 
 - ⚡ I have some skills:
 
-  | Skill           | Experience                   | Focus               |
-  | --------------- | ---------------------------- | ------------------- |
-  | Java            | advanced, TDD V8 (some 11)   | :infinity:, backend |
-  | C/C++           | basic V11                    | Embedded            |
-  | Assembler       | basic (ARM)                  | Embedded            |
-  | VHDL            | basic computer engineering   | Embedded            |
-  | PLC (SPS)       | SIEMENS certified technician | Embedded            |
-  | :octocat: git   | rebase --interactive HEAD~42 | :infinity:          |
-  | bash (GNU)      | some automation              | :infinity:          |
-  | XML             | RPC-API                      | :infinity:          |
-  | JSON            | RPC-API                      | :infinity:          |
-  | :penguin: LINUX |                              | using it ~95%       |
-  | MS Windows      | since Win 98                 | using it  ~5%       |
-
+  | Skill           | Experience                        | Focus                 |
+  | --------------- | --------------------------------- | --------------------- |
+  | Java            | advanced, TDD V8 (some 11)        | :infinity:, backend   |
+  | C/C++           | basic V11                         | mostly embedded       |
+  | Assembler       | basic (ARM)                       | embedded              |
+  | VHDL            | basic computer engineering        | embedded              |
+  | PLC (SPS)       | SIEMENS certified technician      | industrial automation |
+  | :octocat: git   | rebase --interactive HEAD~42      | :infinity:            |
+  | bash (GNU)      | some automation                   | :infinity:            |
+  | XML             | RPC-API                           | :infinity:            |
+  | JSON            | RPC-API                           | :infinity:            |
+  | :penguin: LINUX |                                   | using it ~95%         |
+  | MS Windows      | since Win 98                      | using it  ~5%         |
+  | :de: German     | :infinity:                        | listen to Rammstein   |
+  | :gb: English    | C1                                | talk                  |
+  | Latin           | There is always an exception      | to smart off          |
+  | :ru: Russian    | A0 can't read, but talk something | low level conversations   |
+  | :fr: French     | A0 I can count to 4*20+19         | eat :baguette_bread: :croissant: |
+  | :es: Spanish    | A0 I can count to 10              |                       | 
 
 
 - 🌱 I’m currently learning  
